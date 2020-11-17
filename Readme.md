@@ -118,7 +118,7 @@ The dictionary file and the input file can be changed here in the config file.
 
 
 3. For Version 2 ( enter in Configuration/Config.json file ), run:
-     - ( example prerequisite: edit the WordPuzzle.txt file to contain ([A, M], [G, E]) )
+     - ( example prerequisite: edit the WordPuzzle.txt file to contain ([H, R], [Z, E]) )
 	  >python3 Word_Puzzle_Solver.py
 
        When the given numpy array is ([H, R], [Z, E]), the output is:
