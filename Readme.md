@@ -39,7 +39,7 @@ The program can be found in the folder Task1 in the current directory. The progr
 3. To run with string "":
       >python3 Task1/Find_First_Non_Repeating_Character.py ""
       
-       Output -- The first non repeating character of the string abcbc is -- None
+       Output -- The first non repeating character of the string  is -- None
 
 
 # Task 2 :
